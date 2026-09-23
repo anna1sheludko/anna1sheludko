@@ -2,6 +2,8 @@
 
 **she / her**
 
+**Portfolio:** [anna1sheludko.github.io](https://anna1sheludko.github.io)
+
 Data engineer. I move data from places where it's messy to places where it's useful.
 
 Most of my job is convincing broken CSV files that they can, in fact, be parsed.
