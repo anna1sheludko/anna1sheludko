@@ -90,6 +90,17 @@ logged with rotation, tested with pytest, and runs in Docker.
 
 **Stack:** `Python` `Pandas` `PostgreSQL` `Docker` `Pandera` `pytest` `GitHub Actions`
 
+### [NBP Currency Rates ETL Pipeline](https://github.com/anna1sheludko/nbp-etl-pipeline)
+
+A daily pipeline fetching official exchange rates from the National Bank of Poland
+API into PostgreSQL. Incremental loading (no duplicates), retries on network failures,
+scheduler for automatic twice-daily runs, and 11 unit tests.
+
+**Stack:** `Python` `REST APIs` `PostgreSQL` `Docker` `pytest` `GitHub Actions`
+
+---
+
+More projects coming — unless I get distracted refactoring these two.
 ---
 
 More projects coming — unless I get distracted refactoring this one.
