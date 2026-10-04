@@ -100,10 +100,8 @@ scheduler for automatic twice-daily runs, and 11 unit tests.
 
 ---
 
-More projects coming — unless I get distracted refactoring these two.
----
+More projects coming — unless I get distracted.
 
-More projects coming — unless I get distracted refactoring this one.
 
 ## Contact
 
